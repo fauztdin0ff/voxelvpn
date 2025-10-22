@@ -227,6 +227,23 @@ document.addEventListener("DOMContentLoaded", function () {
    });
 });
 
+/*---------------------------------------------------------------------------
+Cookies
+---------------------------------------------------------------------------*/
+document.addEventListener('DOMContentLoaded', () => {
+   const banner = document.getElementById('cookieBanner');
+   const acceptBtn = document.getElementById('cookieAccept');
+
+   if (!localStorage.getItem('cookiesAccepted')) {
+      banner.classList.remove('hide');
+   }
+
+   acceptBtn.addEventListener('click', () => {
+      localStorage.setItem('cookiesAccepted', 'true');
+      banner.classList.add('hide');
+   });
+});
+
 })();
 
 /******/ })()
