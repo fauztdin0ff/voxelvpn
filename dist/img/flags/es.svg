@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flag/Spain</title>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flag/Spain">
+            <g id="Group" stroke-width="1" fill-rule="evenodd">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval" fill="#ED5565" xlink:href="#path-1"></use>
+                <rect id="Rectangle" fill="#F6D660" mask="url(#mask-2)" x="0" y="12" width="48" height="24"></rect>
+            </g>
+            <path d="M30.9824429,20.1183857 C30.9625509,19.6974589 30.9625509,19.2956652 30.9625509,18.8938714 C30.9625509,18.5686099 30.7039538,18.3198804 30.3657884,18.3198804 C27.8792779,18.3198804 25.98953,17.6310912 24.4180554,16.1578475 C24.1793504,15.9473842 23.8212929,15.9473842 23.5825879,16.1578475 C22.0111133,17.6310912 20.1213654,18.3198804 17.6348549,18.3198804 C17.2966895,18.3198804 17.0380924,18.5686099 17.0380924,18.8938714 C17.0380924,19.2956652 17.0380924,19.6974589 17.0182004,20.1183857 C16.938632,24.1363229 16.8192795,29.6466368 23.8014008,31.9617339 L24.0003217,32 L24.1992425,31.9617339 C31.1614717,29.6466368 31.0620113,24.1554559 30.9824429,20.1183857 Z" id="Path" fill="#ED5565" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

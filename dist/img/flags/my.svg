@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flag/Malaysia</title>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill="#ED5565" xlink:href="#path-1"></use>
+            <rect id="Rectangle" fill="#F5F7FA" mask="url(#mask-2)" x="0" y="6" width="48" height="6"></rect>
+            <rect id="Rectangle" fill="#F5F7FA" mask="url(#mask-2)" x="0" y="18" width="48" height="6"></rect>
+            <rect id="Rectangle" fill="#F5F7FA" mask="url(#mask-2)" x="0" y="30" width="48" height="6"></rect>
+            <rect id="Rectangle" fill="#F5F7FA" mask="url(#mask-2)" x="0" y="42" width="48" height="6"></rect>
+            <rect id="Rectangle" fill="#4758A9" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+            <path d="M16.410673,18.0001047 C16.3762486,18.0001047 16.34158,17.9930129 16.3091091,17.978585 L14,16.9505413 L11.6908875,17.978585 C11.6054373,18.0164888 11.5058265,18.0032832 11.4330715,17.9450829 C11.3600725,17.8866382 11.3258926,17.7922459 11.3442033,17.7005437 L11.8534851,15.1492646 L10.0731864,13.3658408 C10.008,13.3005489 9.98407367,13.2046892 10.0106855,13.116166 C10.0372972,13.0278873 10.1105404,12.9613724 10.2008736,12.9432767 L12.7526676,12.4319448 L13.7714812,10.1357192 C13.8520488,9.95476027 14.1479513,9.95476027 14.2285188,10.1357192 L15.2473324,12.4319448 L17.7991265,12.9432767 C17.8894597,12.9613727 17.9627027,13.0278873 17.9893145,13.116166 C18.0159262,13.2046892 17.9920001,13.3005489 17.9268137,13.3658408 L16.1465149,15.1492646 L16.6557967,17.7005437 C16.6741075,17.7922459 16.6399274,17.8866382 16.5669285,17.9450829 C16.5217619,17.9812749 16.4663412,18.0001047 16.4106765,18.0001047 L16.410673,18.0001047 Z" id="Path" fill="#F6D660" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

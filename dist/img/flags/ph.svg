@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flag/Philippines</title>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flag/Philippines">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill="#ED5565" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect id="Rectangle" fill="#4758A9" fill-rule="evenodd" mask="url(#mask-2)" x="0" y="0" width="48" height="24"></rect>
+            <polygon id="Rectangle" fill="#F5F7FA" fill-rule="evenodd" mask="url(#mask-2)" points="-1.29674049e-13 10 15.9968262 24 -1.29674049e-13 38"></polygon>
+        </g>
+    </g>
+</svg>

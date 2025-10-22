@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flag/Belgium</title>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Flag/Belgium" stroke="none" fill="none">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Oval" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+        <rect id="Rectangle" fill="#434A54" fill-rule="evenodd" mask="url(#mask-2)" x="0" y="0" width="16" height="48"></rect>
+        <rect id="Rectangle" fill="#ED5565" fill-rule="evenodd" mask="url(#mask-2)" x="32" y="0" width="16" height="48"></rect>
+        <rect id="Rectangle" fill="#F6D660" fill-rule="evenodd" mask="url(#mask-2)" x="16" y="0" width="16" height="48"></rect>
+    </g>
+</svg>
